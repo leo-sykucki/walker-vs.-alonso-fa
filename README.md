@@ -46,5 +46,6 @@ The image below highlights percentile rankings (2022–2024, min 200 PA) and hea
 
 - **Pete Alonso** excels in power metrics (99th percentile in HRs, 91st SLG) but has a lower batting average and neutral K/BB rates.
 - **Christian Walker** shows more balanced production with elite percentile ranks in Hits and HRs, while also outperforming in BB% and maintaining a higher BA.
+- While both of these players are top players in the league at their position, with similar percentiles in most statistics. Christian Walker will be arguably half of the price as we go through this years free agency.
 
 
