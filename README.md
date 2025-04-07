@@ -25,7 +25,7 @@ This project compares the offensive performance of two of MLB’s top first base
 
 The image below highlights percentile rankings (2022–2024, min 200 PA) and heatmaps from the 2024 season:
 
-finalvisual.png
+![Walker vs Alonso Comparison](Final%20Visual.png)
 
 
 *Note: Darker red indicates higher concentrations of contact or success vs. pitch types. Percentiles show how each player compares to other 1st basemen during the same timeframe.*
